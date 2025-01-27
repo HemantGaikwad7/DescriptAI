@@ -48,10 +48,13 @@ Descript is an innovative audio and video editing tool designed for creators, po
 ### Step 1: Adding Files
 - Open Descript and click **"New Project"**.
 - Drag and drop media files (audio/video) into the workspace, or click **"Add Media"** to upload files.
+![Add Video](https://github.com/user-attachments/assets/9267127c-e0ac-45a8-94ea-6df53da73b0c)
 
 ### Step 2: Automatic Transcription
 - Descript will automatically generate a transcript of your audio or video file.
 - Edit the transcription for accuracy if needed.
+![Captions](https://github.com/user-attachments/assets/8fe8c73c-0802-4b0b-86f1-f441b91c636b)
+![AutoCaption](https://github.com/user-attachments/assets/962b33a0-8ab6-4b1b-8b2b-df0285eeeec1)
 
 ### Step 3: Organizing Media
 - Group multiple media files into folders for better organization.
@@ -62,15 +65,18 @@ Descript is an innovative audio and video editing tool designed for creators, po
 
 ### Step 1: Editing Text
 - Edit the transcript like a Word document; changes in text reflect directly on the media timeline.
+![Edit transcript like word](https://github.com/user-attachments/assets/e98c7497-3277-4e38-ad9d-495fa269332a)
 
 ### Step 2: Removing Sections
 - Highlight text to delete sections of audio/video.
 
 ### Step 3: Overdub
 - Use AI-powered Overdub to replace or add voice content.
+![AI-Powered Overdub](https://github.com/user-attachments/assets/4c298c54-83e1-41ae-b36a-4d2c7206547f)
 
 ### Step 4: Multitrack Editing
 - Edit multiple audio tracks simultaneously for collaborative projects.
+![Audio track](https://github.com/user-attachments/assets/9f0182c5-1e81-49f6-95bf-c12f229c7a0c)
 
 ---
 
@@ -79,10 +85,12 @@ Descript is an innovative audio and video editing tool designed for creators, po
 ### Step 1: Adding Effects
 - Apply audio effects like noise reduction, volume leveling, and EQ adjustments.
 - Add visual effects for videos, such as captions and transitions.
+![Audio effects](https://github.com/user-attachments/assets/d6e1253c-e6cd-4dae-9370-9c36cdee7731)
 
 ### Step 2: Exporting Files
 - Click on the **"Share"** button and select the export format (e.g., MP3, MP4).
 - Adjust output settings like resolution, frame rate, and quality.
+![Exporting Files](https://github.com/user-attachments/assets/49d74aa0-2073-421a-8502-301b975cd602)
 
 ### Example Export Command:
 ```json
@@ -101,6 +109,7 @@ Descript is an innovative audio and video editing tool designed for creators, po
 - Import a podcast recording and transcribe the audio.
 - Use text-based editing to remove filler words and pauses.
 - Add an intro and outro with background music.
+![Intro and outro](https://github.com/user-attachments/assets/2f623ad8-82fb-4996-83e6-68a347c5be22)
 
 ### Example 2: Video Tutorials
 - Import a screen recording.
@@ -110,6 +119,7 @@ Descript is an innovative audio and video editing tool designed for creators, po
 ### Example 3: Collaborative Team Projects
 - Share the project with team members via Descript’s cloud collaboration feature.
 - Assign editing tasks to team members.
+![Share project](https://github.com/user-attachments/assets/718bc0c9-0858-4b0d-9788-9d96210d1498)
 
 ---
 
